@@ -9,9 +9,9 @@ This repository contains our solutions for **Exercise 1** of the course on Unimo
 
 ## 👥 Authors
 This work was completed as a **group assignment** by:  
-- Viktor Maximilian Lehnhausen  
 - Mikael Alves Brito  
-- Georg Matthes  
+- Georg Matthes
+- Viktor Maximilian Lehnhausen  
 
 ## 📝 Description
 The exercise focused on:
